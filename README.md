@@ -1,5 +1,5 @@
-# 🛒 Ecommerce Véliz
-Um projeto de e-commerce desenvolvido em **HTML, CSS e JavaScript**, com foco em cadastro de usuários e autenticação básica. Este repositório contém páginas como `cadastro.html`, `login.html` e estilos em `style.css`.
+# 🛒 Sistema de Login e Cadastro — Véliz
+Um projeto de Sistema de Login e Cadastro em **HTML, CSS e JavaScript**, com foco em cadastro de usuários e autenticação básica. Este repositório contém páginas como `cadastro.html`, `login.html` e estilos em `style.css`.
 
 ## 🚀 Funcionalidades
 - Página de **cadastro de usuários** (`cadastro.html`)
@@ -15,5 +15,5 @@ Um projeto de e-commerce desenvolvido em **HTML, CSS e JavaScript**, com foco em
 
 ## 🌐 Acesse o projeto online
 Você pode visualizar através do GitHub Pages neste link:  
-👉 [Ecommerce Véliz](https://marcoss0919.github.io/ecommerce-v-liz/login.html)
+👉 [Sistema de Login e Cadastro — Véliz](https://marcoss0919.github.io/sistema-de-login-veliz/login.html)
 
