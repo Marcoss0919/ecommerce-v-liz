@@ -15,5 +15,5 @@ Um projeto de Sistema de Login e Cadastro em **HTML, CSS e JavaScript**, com foc
 
 ## 🌐 Acesse o projeto online
 Você pode visualizar através do GitHub Pages neste link:  
-👉 [Sistema de Login e Cadastro — Véliz](https://marcoss0919.github.io/sistema-de-login-veliz/login.html)
+👉 [Sistema de Login e Cadastro — Véliz](https://marcoss0919.github.io/sistema-login-cadastro-veliz/login.html)
 
